@@ -5,7 +5,7 @@
 <h2>Usage</h2>
 
 <p>1. Clone the repository</p>
-<pre>git clone https://github.com/YOUR_USERNAME/express-mysql-crud-example.git</pre>
+<pre>git clone https://github.com/Divesh-Kumar-Chordia/express-mysql-crud-example.git</pre>
 
 <p>2. Install the dependencies</p>
 <pre>npm install</pre>
